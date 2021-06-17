@@ -1,6 +1,4 @@
 name: spring
 title: spring
 version: 1.5.6
-start_page: ROOT:index.adoc
-nav:
-- modules/ROOT/index.adoc
+
